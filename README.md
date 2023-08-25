@@ -1,5 +1,5 @@
 # Olympic-data-analysis-
-In This project I have Uploaded My data Over Http Request to Azure storage Account through Azure Data Factory 
+In This project I have Uploaded My data Over Http to Azure storage Account through Azure Data Factory 
 I have created Pipeline Using Azure data Factory which takes data over HTTP in JSON format and store it on my storage account as CSV files.
 I have used Blob Storage
 Then By using Azure DataBricks I have transformed Data using spark and stored again on storage account.
