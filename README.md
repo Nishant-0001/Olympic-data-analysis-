@@ -1,6 +1,6 @@
 # Analyzing Olympic Data Using Azure Services
 
-Greetings! In this technical overview, we'll delve into how we harnessed the power of various Azure services for Olympic data analysis.
+In this detailed technical overview, we will dive deep into how we effectively utilized a range of Azure services for our comprehensive Olympic data analysis.
 
 ## Data Flow Overview
 
@@ -40,4 +40,7 @@ By skillfully integrating Azure services, we successfully built an end-to-end pi
 
 ## Pipeline
 <img src="Pipeline.png">
+
+## Dashboard
+<img src="Dashboard.png">
 
