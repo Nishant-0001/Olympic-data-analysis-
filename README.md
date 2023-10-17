@@ -39,8 +39,11 @@ In this detailed technical overview, we will dive deep into how we effectively u
 By skillfully integrating Azure services, we successfully built an end-to-end pipeline for Olympic data analysis. The combined strength of Azure Blob Storage, Data Factory, Databricks, Synapse Analytics, and Power BI allowed us to collect, transform, warehouse, and visualize data efficiently.
 
 ## Pipeline
+![Pipeline](https://github.com/Nishant-0001/Olympic-data-analysis-/assets/88822119/ac991454-d03e-45f4-a8ec-4245a2ed46a3)
+
 <img src="Pipeline.png">
 
 ## Dashboard
-<img src="Dashboard.png">
+![Dashboard](https://github.com/Nishant-0001/Olympic-data-analysis-/assets/88822119/5ee2a82b-e19a-4ac5-b24b-b61b0a7d0389)
+
 
