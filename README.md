@@ -41,7 +41,7 @@ By skillfully integrating Azure services, we successfully built an end-to-end pi
 ## Pipeline
 ![Pipeline](https://github.com/Nishant-0001/Olympic-data-analysis-/assets/88822119/ac991454-d03e-45f4-a8ec-4245a2ed46a3)
 
-<img src="Pipeline.png">
+
 
 ## Dashboard
 ![Dashboard](https://github.com/Nishant-0001/Olympic-data-analysis-/assets/88822119/5ee2a82b-e19a-4ac5-b24b-b61b0a7d0389)
